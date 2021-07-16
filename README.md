@@ -1,2 +1,5 @@
-# m3sc-DNA-patternsearch
-Project 1:  ‘DNA Pattern Search and Sorting’ completed for ‘Scientific Computing’. 
+# M3SC Coursework 1: DNA Pattern Search
+
+Project 1:  ‘DNA Pattern Search and Sorting’ completed for ‘Scientific Computing’. All code has been written in Python.
+
+Part 1 of this coursework involved writing a program which analysed a 4-million-character DNA sequence and searched for patterns and mutations by implementing rolling hash tables. Part 2 of this coursework involved taking in N partially sorted lists of size M where the first P element of each list is sorted into ascending order and the remaining M-P element are random and unsorted and writing an efficient program which sorts these lists. The files included in this repository contain the Python code I wrote for this coursework along with descriptions of each function and comments explaining each line of code and code for figures which I generated in order to explore the performance of my code. This coursework also has a written element which are included in the docstrings within the relevant section of code. This includes my approach to each problem and reasoning behind the implementation of my code, time and computational complexity analysis and my analysis of the figures I have generated. 
